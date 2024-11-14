@@ -62,4 +62,4 @@ Adicionar uma visualização de detalhes dos itens ao serem selecionados.
 Criar uma barra de pesquisa para localizar rapidamente itens no inventário.  
   
 📄 Licença  
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE]([https://github.com/casote/JogoDaMemoria](https://github.com/casote/Simples-Inventario-para-jogos/blob/main/LICENSE.txt) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/casote/Simples-Inventario-para-jogos/blob/main/LICENSE.txt) para mais detalhes.

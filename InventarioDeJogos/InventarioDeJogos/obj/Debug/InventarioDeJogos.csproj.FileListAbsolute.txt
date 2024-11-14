@@ -1,0 +1,4 @@
+C:\Users\gabri\source\repos\InventarioDeJogos\InventarioDeJogos\obj\Debug\InventarioDeJogos.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\InventarioDeJogos\InventarioDeJogos\obj\Debug\InventarioDeJogos.Properties.Resources.resources
+C:\Users\gabri\source\repos\InventarioDeJogos\InventarioDeJogos\obj\Debug\InventarioDeJogos.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\InventarioDeJogos\InventarioDeJogos\obj\Debug\InventarioDeJogos.csproj.CoreCompileInputs.cache

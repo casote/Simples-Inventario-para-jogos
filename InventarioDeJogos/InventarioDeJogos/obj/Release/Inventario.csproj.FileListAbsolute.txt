@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Inventario.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Form1.resources
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Inventario.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\gabri\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

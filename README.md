@@ -23,7 +23,8 @@ Clone o repositório:
 ````
 bash
 Copy code
-git clone https://github.com/seu_usuario/InventarioDeItens.git
+git clone https://github.com/casote/Simples-Inventario-para-jogos.git
+
 ````
   
 Abra o projeto no Visual Studio, compile e execute o projeto.  
@@ -33,10 +34,10 @@ Copy code
 📂 InventarioDeItens   
 ├── bin  
 │-----└── Debug  
-│------------└── InventarioDeItens.exe    # Arquivo executável  
+│------------└── InventarioDeJogos.exe    # Arquivo executável  
 ├── obj  
 │----└── Debug  
-├── InventarioDeItens.csproj         # Arquivo de projeto  
+├── InventarioDeJogos.csproj         # Arquivo de projeto  
 ├── Program.cs                       # Código principal  
 ├── Form1.cs                         # Formulário principal com a interface do inventário  
 ├── Inventario.cs                    # Classe de gerenciamento do inventário  

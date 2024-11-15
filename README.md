@@ -27,7 +27,6 @@ Clone o repositório:
 bash
 Copy code
 git clone https://github.com/casote/Simples-Inventario-para-jogos.git
-
 ````
   
 Abra o projeto no Visual Studio, compile e execute o projeto.  
